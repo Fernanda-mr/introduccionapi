@@ -1,0 +1,22 @@
+{
+  "name": "proyectoexpress",
+  "version": "1.0.0",
+  "description": "introducción a api, ptactica 3 unidad 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernanda-mr/introduccionapi.git"
+  },
+  "author": "María Fernanda Moya Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernanda-mr/introduccionapi/issues"
+  },
+  "homepage": "https://github.com/Fernanda-mr/introduccionapi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
